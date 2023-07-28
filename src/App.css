@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  padding: 4em 30%;
+}
+
+.form-control{
+  height: 4em;
+  width: 32em;
+  padding: 1em 3em;
+  inout[type="text"]{
+    font-zie: 2em;
+    
+  }
 }
 
 .App-logo {
